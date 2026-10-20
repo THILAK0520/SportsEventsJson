@@ -1,0 +1,32 @@
+
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Chennai Football Tournament",
+      "category": "Football",
+      "organizer": "Chennai Sports Club",
+      "description": "Inter-college football tournament",
+      "date": "2026-11-10",
+      "location": "Chennai"
+    },
+    {
+      "id": 2,
+      "title": "Tamil Nadu Cricket Championship",
+      "category": "Cricket",
+      "organizer": "Tamil Nadu Cricket Club",
+      "description": "Local cricket championship",
+      "date": "2026-11-15",
+      "location": "Chennai"
+    },
+    {
+      "id": 3,
+      "title": "Badminton Open",
+      "category": "Badminton",
+      "organizer": "Smash Sports Academy",
+      "description": "Open badminton tournament",
+      "date": "2026-11-20",
+      "location": "Vellore"
+    }
+  ]
+}
