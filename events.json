@@ -1,4 +1,3 @@
-
 {
   "events": [
     {
@@ -27,6 +26,44 @@
       "description": "Open badminton tournament",
       "date": "2026-11-20",
       "location": "Vellore"
+    }
+  ],
+  "players": [
+    {
+      "id": 101,
+      "name": "Nithin",
+      "sport": "Football",
+      "city": "Chennai"
+    },
+    {
+      "id": 102,
+      "name": "Rakilesh",
+      "sport": "Football",
+      "city": "Chennai"
+    },
+    {
+      "id": 201,
+      "name": "Thilak",
+      "sport": "Cricket",
+      "city": "Chennai"
+    },
+    {
+      "id": 202,
+      "name": "Kabil dev",
+      "sport": "Cricket",
+      "city": "Coimbatore"
+    },
+    {
+      "id": 301,
+      "name": "Naveen Raj",
+      "sport": "Badminton",
+      "city": "Vellore"
+    },
+    {
+      "id": 302,
+      "name": "Dharshini",
+      "sport": "Badminton",
+      "city": "Chennai"
     }
   ]
 }
