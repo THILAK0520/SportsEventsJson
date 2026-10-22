@@ -31,25 +31,25 @@
   "players": [
     {
       "id": 101,
-      "name": "Nithin",
+      "name": "Arjun Kumar",
       "sport": "Football",
       "city": "Chennai"
     },
     {
       "id": 102,
-      "name": "Rakilesh",
+      "name": "Ravi Prakash",
       "sport": "Football",
       "city": "Chennai"
     },
     {
       "id": 201,
-      "name": "Thilak",
+      "name": "Karthik Raj",
       "sport": "Cricket",
       "city": "Chennai"
     },
     {
       "id": 202,
-      "name": "Kabil dev",
+      "name": "Vijay Kumar",
       "sport": "Cricket",
       "city": "Coimbatore"
     },
@@ -61,7 +61,7 @@
     },
     {
       "id": 302,
-      "name": "Dharshini",
+      "name": "Sanjay Kumar",
       "sport": "Badminton",
       "city": "Chennai"
     }
